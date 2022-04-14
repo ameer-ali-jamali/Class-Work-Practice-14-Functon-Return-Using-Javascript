@@ -1,0 +1,31 @@
+s/////////////////////////////////////////////////////////////////////////////
+
+//Practice 1 >>> function addition and all opreators program .without return ..function
+
+/////////////////////////////////////////////////////////////////////////////
+
+// function hello(a,b){
+// document.write(a+b)
+// document.write("<hr>")
+// document.write(a-b)
+// document.write("<hr>")
+// document.write(+a*b)
+// document.write("<hr>")
+// document.write(a/b)
+// document.write("<hr>")
+//   }
+//   hello(4,4);
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+// Variable Arrays .Which is Example of container 
+// >>> Array.length// define all number of container
+
+/////////////////////////////////////////////////////////////////////////////
+
+// var arr =[5,6,7]
+// for (var i =0; i<arr.length; i++)
+// {
+//  document.write(arr[i])
+// }
